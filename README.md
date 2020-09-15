@@ -2,6 +2,8 @@
 
 Sandbox for Periodic Table interactive prototypes for the Hall of Gems and Minerals
 <img src="./pt.gif" />
+<img src="./molecules.gif" />
+<img src="./3d-molecules.gif" />
 
 ## Running locally
 

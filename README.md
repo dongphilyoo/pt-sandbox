@@ -1,7 +1,7 @@
 # Periodic Table Sandbox
 
 Sandbox for Periodic Table interactive prototypes for the Hall of Gems and Minerals
-<img src="https://media.giphy.com/media/J13pCflhMCXEr3yYll/giphy.gif" />
+<img src="./pt.gif" />
 
 ## Running locally
 
